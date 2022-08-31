@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NandanJadhav
-- 👀 I’m interested in Application Development(Flutter),Data Analytics using Python
-- 🌱 I’m a freshie engineer in Computer Science field
-- 💞️ I’m looking to collaborate on Application development projects
-- 📫 Mail- jadhavnandan2686@gmail.com
+- 
+I am an Application Developer(Flutter) looking to solve the real world problems.I have a passion for learning and sharing my knowledge with others.
+
+Contact-jadhavnandan2686@gmail.com
 
 <!---
 NandanJadhav/NandanJadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
