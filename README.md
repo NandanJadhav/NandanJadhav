@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NandanJadhav
 - 
-I am an Application Developer(Flutter) looking to solve the real world problems.I have a passion for learning and sharing my knowledge with others.
-
+👋 Full stack developer passionate about crafting seamless web experiences. Proficient in JavaScript, Java, and more. Let's build something awesome together! 💻✨
 Contact-jadhavnandan2686@gmail.com
 
 <!---
